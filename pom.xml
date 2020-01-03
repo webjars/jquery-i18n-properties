@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-i18n-properties</artifactId>
-    <version>1.2.7</version>
+    <version>1.2.8-SNAPSHOT</version>
     <name>jquery-i18n-properties</name>
     <description>WebJar for jquery-i18n-properties</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jquery-i18n-properties</url>
         <connection>scm:git:https://github.com/webjars/jquery-i18n-properties.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-i18n-properties.git</developerConnection>
-        <tag>jquery-i18n-properties-1.2.7</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
